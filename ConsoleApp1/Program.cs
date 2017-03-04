@@ -14,6 +14,7 @@ namespace ConsoleApp1
             //اللي فوق دي عنوان بداية التكونسول
             //دي أنا باقول للمستخدم من فضلك ادخل اسمك  يبقى لازم اكتب الكونسل .رايت لاين وافتح القوس مع دبل كوتيشن
             // اذن أبدأ بكونسل .رايت لاين وأنفذ بالمتغير أيا كان هو أيه زي اللي موجود بالازرق تحت
+            // yes
             Console.WriteLine("please inter your name:");
             //declate avariable تعريف المتغير
             string name = Console.ReadLine();
